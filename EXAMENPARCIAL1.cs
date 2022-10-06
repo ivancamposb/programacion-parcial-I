@@ -41,7 +41,7 @@ class parcial
     Console.Write("Usted requerirá de: ");
     Console.WriteLine(b + " Camarote");
 
-Console.WriteLine("Feliz porque fuí de las pocas personas que no le pasaron el código y no buscó pretender saber hacer las cosas");
+
 
     }
 
