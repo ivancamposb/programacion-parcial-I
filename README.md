@@ -1,2 +1,2 @@
 # programacion-parcial-I
-Ejercicios de algoritmos de calculación en c#
+Ejercicios de algoritmos  en c#
